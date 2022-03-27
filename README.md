@@ -20,4 +20,4 @@ Desafio sicredi, visando a prática com a linguagem Java e os conceitos do parad
 ## 📁 Acesso ao projeto
 Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/odanielbarbosa/sicredi_desafio/tree/main/src).
 
-Arquivo .xls usado para testes [aqui](https://github.com/odanielbarbosa/sicredi_desafio/tree/main/src).
+Arquivo .xls usado para testes [aqui](https://github.com/odanielbarbosa/sicredi_desafio/blob/main/src/main/resources/sicredi.xls).
