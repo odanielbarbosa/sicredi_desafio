@@ -18,4 +18,4 @@ Desafio sicredi, visando a prática com a linguagem Java e os conceitos do parad
 - ``Paradigma de orientação a objetos``
 
 ## 📁 Acesso ao projeto
-Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/gui-lirasilva/Edige-POO/tree/master/src).
+Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/odanielbarbosa/sicredi_desafio/tree/main/src).
